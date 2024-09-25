@@ -62,8 +62,7 @@
 <table>
   <thead>
     <tr>
-      <th>
-        <img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars">
+      <th><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars">
       </th>
       <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wiliperdana&amp;theme=tokyonight" alt="Wiliperdana GitHub Streak">
       </th>
@@ -72,8 +71,7 @@
   <tbody>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiliperdana&amp;theme=tokyonight" alt="Top Langs">
-      </td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats">
+      </td><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;theme=tokyonight" alt="Wiliperdana's github stats">
       <td>
       </td>
     </tr>
