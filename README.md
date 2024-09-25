@@ -24,6 +24,7 @@
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=nodejs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"> </a>
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=laravel&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg"> </a>
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=codeigniter&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeigniter.svg"> </a>
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=csharp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
@@ -34,6 +35,8 @@
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=sqlite&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=git&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"> </a>
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=firebase&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg"> </a>
+<a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=vercel-light&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vercel-light.svg"> </a>
+<a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=wordpress&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg"> </a>
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <a href="https://id.linkedin.com/in/yuda-wiliperdana-9710a0256"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
