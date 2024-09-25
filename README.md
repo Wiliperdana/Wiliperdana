@@ -8,7 +8,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently working on  United Tractors</p>
+<p>🔭 I’m currently working on United Tractors</p>
 </li>
 <li>
 <p>🌱 I’m currently learning ASP.NET Core</p>
@@ -36,13 +36,13 @@
 <a href="https://github.com/Wiliperdana?tab=repositories&amp;q=&amp;type=&amp;language=firebase&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg"> </a>
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
-<a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
-<a href="https://www.twitter.com/NoobCoder07"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
+<a href="https://id.linkedin.com/in/yuda-wiliperdana-9710a0256"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href="https://www.twitter.com/wiliperdana"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
 <a href="https://instagram.com/wiliperdana_"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"></a> 
 <a href="https://www.github.com/Wiliperdana"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 <br>
 <br>
-<br>
+<h2> Activity <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wiliperdana&amp;theme=tokyonight" alt="Aditya GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiliperdana&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wiliperdana&amp;theme=tokyonight" alt="Wiliperdana GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiliperdana&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
 <br>
 <hr>
 <p>Credits: <a href="https://github.com/Wiliperdana">Yuda Wiliperdana</a></p>
