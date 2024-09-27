@@ -45,23 +45,6 @@
 <a href="https://www.github.com/Wiliperdana"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 <br>
 <br>
-<h2> Activity <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wiliperdana&amp;theme=tokyonight" alt="Wiliperdana GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiliperdana&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Wiliperdana&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
-
-<br>
 <hr>
 <p>Credits: <a href="https://github.com/Wiliperdana">Yuda Wiliperdana</a></p>
-<p>Last Edited on: 25/09/2024</p> 
+<p>Last Edited on: 27/09/2024</p> 
