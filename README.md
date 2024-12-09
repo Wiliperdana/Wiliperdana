@@ -8,7 +8,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently working on United Tractors</p>
+<p>🔭 I’m currently working at United Tractors</p>
 </li>
 <li>
 <p>🌱 I’m currently learning ASP.NET Core</p>
@@ -17,7 +17,7 @@
 <p>👯 I’m looking to collaborate on Back End</p>
 </li>
 <li>
-<p>💬 Ask me about SQL, JavaScript, C#, and Laravel</p>
+<p>💬 Ask me about JavaScript, C#, and Python</p>
 </li>
 </ul>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
