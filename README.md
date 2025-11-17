@@ -8,13 +8,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently working at United Tractors</p>
+<p>🔭 I’m currently working at PT United Tractors Tbk.</p>
 </li>
 <li>
-<p>🌱 I’m currently learning ASP.NET Core</p>
+<p>🌱 I’m currently learning on Backend Development</p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on Back End</p>
+<p>👯 I’m looking to collaborate on Data Science & ML</p>
 </li>
 <li>
 <p>💬 Ask me about JavaScript, C#, and Python</p>
