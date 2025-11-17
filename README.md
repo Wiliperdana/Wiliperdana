@@ -47,4 +47,4 @@
 <br>
 <hr>
 <p>Credits: <a href="https://github.com/Wiliperdana">Yuda Wiliperdana</a></p>
-<p>Last Edited on: 27/09/2024</p> 
+<p>Last Edited on: 17/11/2025</p> 
