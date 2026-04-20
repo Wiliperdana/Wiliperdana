@@ -11,7 +11,7 @@
 <p>🔭 I’m currently working at PT United Tractors Tbk.</p>
 </li>
 <li>
-<p>🌱 I’m currently learning on Backend Development</p>
+<p>🌱 I’m currently working on Backend Development</p>
 </li>
 <li>
 <p>👯 I’m looking to collaborate on Data Science & ML</p>
